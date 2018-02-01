@@ -1,0 +1,5 @@
+student_ID|Int|F_I|String|group|String
+1|Daniil Prudnichenkov|IY5
+2|Nikita Terehov|IY5
+3|Michail Kycherenko|IY5
+5|Rubinov Nikita|IY7
