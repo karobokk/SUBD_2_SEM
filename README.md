@@ -1,2 +1,2 @@
 # SUBD_2_SEM
-This repository is example of few functions in cpp.
+This repository is an example of few functions of cpp.
